@@ -5,10 +5,12 @@ Tic-tac-toe game that:
 - Stores a game’s history as a game progresses
 - Allows players to review a game’s history and see previous versions of a game’s board.
 
+The game is hosted on CodePen https://codepen.io/adg29/pen/dBeadQ
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Step by step  tutorial for building this tic tac toe game is availble at https://reactjs.org/tutorial/tutorial.html#setup-option-1-write-code-in-the-browser
+
 
 ## Available Scripts
 
